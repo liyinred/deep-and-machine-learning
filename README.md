@@ -1,5 +1,16 @@
-<p align='center'>
-  deep-and-machine-learning
+<p style="text-align: center;">
+  <a href="https://github.com/Zzaphkiel/Seraphine/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Zzaphkiel/Seraphine?style=flat&label=License" alt="License">
+  </a>
+  <a href="https://github.com/Zzaphkiel/Seraphine/forks">
+    <img src="https://img.shields.io/github/forks/Zzaphkiel/Seraphine?style=flat&label=Forks" alt="Forks">
+  </a>
+  <a href="https://github.com/Zzaphkiel/Seraphine/stargazers">
+    <img src="https://img.shields.io/github/stars/Zzaphkiel/Seraphine?style=flat&label=Stars" alt="Stars">
+  </a>
+  <a href="https://github.com/Zzaphkiel/Seraphine/releases">
+    <img src="https://img.shields.io/github/downloads/Zzaphkiel/Seraphine/total?style=flat&label=Downloads" alt="Downloads">
+  </a>
 </p>
 
 # 机器学习与深度学习
