@@ -1,4 +1,7 @@
-# deep-and-machine-learning
+<p align='center'>
+  deep-and-machine-learning
+</p>
+
 # 机器学习与深度学习
 
 机器学习和深度学习都是人工智能领域的重要分支，它们虽然在很多方面有共通之处，但也存在明显的差异。
