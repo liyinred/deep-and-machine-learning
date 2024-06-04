@@ -1,17 +1,3 @@
-<p style="text-align: center;">
-  <a href="https://github.com/Zzaphkiel/Seraphine/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Zzaphkiel/Seraphine?style=flat&label=License" alt="License">
-  </a>
-  <a href="https://github.com/Zzaphkiel/Seraphine/forks">
-    <img src="https://img.shields.io/github/forks/Zzaphkiel/Seraphine?style=flat&label=Forks" alt="Forks">
-  </a>
-  <a href="https://github.com/Zzaphkiel/Seraphine/stargazers">
-    <img src="https://img.shields.io/github/stars/Zzaphkiel/Seraphine?style=flat&label=Stars" alt="Stars">
-  </a>
-  <a href="https://github.com/Zzaphkiel/Seraphine/releases">
-    <img src="https://img.shields.io/github/downloads/Zzaphkiel/Seraphine/total?style=flat&label=Downloads" alt="Downloads">
-  </a>
-</p>
 
 ![image](https://github.com/liyinred/deep-and-machine-learning/assets/83255231/a165cb62-317e-4b0b-ac07-757341da24b8)
 
