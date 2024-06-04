@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![image](https://github.com/liyinred/deep-and-machine-learning/assets/83255231/a165cb62-317e-4b0b-ac07-757341da24b8)
+
 # 机器学习与深度学习
 
 机器学习和深度学习都是人工智能领域的重要分支，它们虽然在很多方面有共通之处，但也存在明显的差异。
