@@ -25,6 +25,8 @@ Transformer：
 # 机器学习与深度学习
 
 机器学习和深度学习都是人工智能领域的重要分支，它们虽然在很多方面有共通之处，但也存在明显的差异。
+![image](https://github.com/liyinred/mach-dl-learning/assets/83255231/d5d61b72-54f9-4f58-a8da-a2a1460446a2)
+
 
 ## 定义和范围
 
