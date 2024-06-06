@@ -13,10 +13,14 @@ Transformer：
 - 通过多头注意力机制并行处理输入数据，能够捕捉不同的特征。
 - 更适合处理自然语言处理任务，如机器翻译和文本生成。
 
+  ![image](https://github.com/liyinred/mach-dl-learning/assets/83255231/ef5a81f0-beda-40f2-827a-dfd9adfbcb2f)
+
 卷积神经网络 (CNN)：
 - 使用卷积操作扫描输入数据，能够有效捕捉局部特征。
 - 在图像处理任务中表现优异，如图像分类、目标检测和图像分割。
 - 池化层帮助减少计算量并防止过拟合。
+  
+![image](https://github.com/liyinred/mach-dl-learning/assets/83255231/16c116fb-a9eb-4efe-b72e-b63f184b2df4)
 
 # 机器学习与深度学习
 
