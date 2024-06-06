@@ -1,5 +1,5 @@
-
 ![image](https://github.com/liyinred/deep-and-machine-learning/assets/83255231/a165cb62-317e-4b0b-ac07-757341da24b8)
+![image](https://github.com/liyinred/mach-dl-learning/assets/83255231/202b769b-aa08-4e07-8dba-4f2a4d4f16d5)
 
 Transformer 和卷积神经网络 (CNN) 是两种不同的深度学习模型，主要用于不同的任务。它们的区别如下：
 
